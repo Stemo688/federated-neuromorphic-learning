@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+data/
+results/
+models/
+*.npy
+*.fbz
+*.DS_Store
+.env
